@@ -5,3 +5,6 @@ How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 It is the area between the working directory and the repository. It links only the files that we 
 want to be in the repository.
+How can you use the staging area to make sure you have one commit per logical change?
+You can compare the staging area to the last commit to check if there is only 
+one logical change with the command git diff --staged.
