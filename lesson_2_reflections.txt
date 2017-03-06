@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+It says to git that this is a new repository. We need it to initialize the repository so we can 
+make commits and begin using git.
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+It is the area between the working directory and the repository. It links only the files that we 
+want to be in the repository.
